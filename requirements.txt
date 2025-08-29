@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+requests==2.32.3
+python-multipart==0.0.9
+TTS  # Coqui TTS 
+langdetect==1.0.9
